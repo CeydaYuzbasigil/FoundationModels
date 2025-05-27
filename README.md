@@ -4,6 +4,7 @@ The course is given by Prof. Dr. Reinhard Heckel.
 After grading is done, the grade for each homework will be shared in this 'README' file.
 
 
+
 HOMEWORK NUM  || GRADE ||  Possible MAX Grade
       # 1     ||       ||      
       # 2     ||       ||      
